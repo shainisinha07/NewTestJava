@@ -21,6 +21,7 @@ public class trial {
 	public static void main(String args)
 	{
 		System.out.println("Num is"+createRandomNumber(5));
+		System.out.println("sdfdsfdsf");
 	}
 
 }
